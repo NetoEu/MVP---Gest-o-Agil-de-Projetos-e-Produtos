@@ -17,7 +17,3 @@ Este é um backlog do projeto de **Calculadora de Cubagem** para calcular volume
 - **Backend:** Node.js, Express (caso o projeto tenha um backend para cálculos ou APIs)
 - **Bibliotecas:** Bootstrap (para o design responsivo), outras bibliotecas conforme necessidade (para gerar PDFs ou CSVs)
 - **API:** Integração com API para obter fatores de cubagem para diferentes modais de transporte.
-
-## 👨‍💻 Desenvolvedor
-Neto Eu - GitHub
-Email: netobjsc@gmail.com
