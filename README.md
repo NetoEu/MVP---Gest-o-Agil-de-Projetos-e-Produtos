@@ -2,7 +2,7 @@
 
 # Calculadora de Cubagem
 
-Este é um projeto de **Calculadora de Cubagem** para calcular volumes e pesos cúbicos de objetos com base em suas dimensões (altura, largura e comprimento). A ferramenta é ideal para cálculos logísticos e de transporte, onde o volume e o peso são essenciais para a definição de custos e planejamento.
+Este é um backlog do projeto de **Calculadora de Cubagem** para calcular volumes e pesos cúbicos de objetos com base em suas dimensões (altura, largura e comprimento). A ferramenta é ideal para cálculos logísticos e de transporte, onde o volume e o peso são essenciais para a definição de custos e planejamento.
 
 ## 🚀 Funcionalidades
 
